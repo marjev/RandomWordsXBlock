@@ -1,0 +1,9 @@
+/* CSS for RandomWordsXBlock */
+
+.randomwords_block .count {
+    font-weight: bold;
+}
+
+.randomwords_block p {
+    cursor: pointer;
+}
